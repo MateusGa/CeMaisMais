@@ -54,7 +54,7 @@ int main() {
 
     while(true){
 
-        cout<<"\n\n----------------------------\nEscolha:\n\n1)Cadastrar Livro\n2)Cadastrar Cliente\n3)Fazer Empréstimo (Ainda não finalizado) \n4)Devolução (Ainda não finalizado)\n5)Listar\n6)Parar\n\n";
+        cout<<"\n\n----------------------------\nEscolha:\n\n1)Cadastrar Livro\n2)Cadastrar Cliente\n3)Fazer Empréstimo\n4)Devolução\n5)Listar\n6)Parar\n\n";
 
 
         int esc;
@@ -170,4 +170,5 @@ int main() {
 
 
     return 0;
+
 }
